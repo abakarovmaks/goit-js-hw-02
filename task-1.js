@@ -1,5 +1,4 @@
 const logItems = function (array) {
-  //   "use strict";
   let number = 0;
   let result = "";
 
